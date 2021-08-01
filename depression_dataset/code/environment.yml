@@ -1,0 +1,13 @@
+name: dmt106
+channels:
+- defaults
+dependencies:
+- Python
+- Pandas
+- Numpy
+- jupyter
+- scikit-learn
+- matplotlib
+- statsmodels
+- pytorch
+- tqdm=4.41.1=py_0
